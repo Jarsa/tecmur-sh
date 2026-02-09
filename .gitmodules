@@ -110,3 +110,7 @@
 	path = amxodoo-enterprise
 	url = git@github.com:Jarsa/amxodoo-enterprise.git
 	branch = 19.0
+[submodule "tecmur"]
+	path = tecmur
+	url = git@git.vauxoo.com:Jarsa/tecmur.git
+	branch = 19.0
