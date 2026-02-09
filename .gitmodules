@@ -1,0 +1,112 @@
+[submodule "google-spreadsheet-import"]
+	path = google-spreadsheet-import
+	url = git@git.jarsa.com:Jarsa/google-spreadsheet-import.git
+	branch = 19.0
+[submodule "mailgun"]
+	path = mailgun
+	url = git@git.jarsa.com:Jarsa/mailgun.git
+	branch = 19.0
+[submodule "server-backend"]
+	path = server-backend
+	url = git@github.com:Jarsa/server-backend.git
+	branch = 19.0
+[submodule "partner-contact"]
+	path = partner-contact
+	url = git@github.com:jarsa/partner-contact.git
+	branch = 19.0
+[submodule "product-attribute"]
+	path = product-attribute
+	url = git@github.com:Jarsa/product-attribute.git
+	branch = 19.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = git@github.com:Jarsa/stock-logistics-workflow.git
+	branch = 19.0
+[submodule "web"]
+	path = web
+	url = git@github.com:Jarsa/web.git
+	branch = 19.0
+[submodule "server-tools"]
+	path = server-tools
+	url = git@github.com:Jarsa/server-tools.git
+	branch = 19.0
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = git@github.com:Jarsa/purchase-workflow.git
+	branch = 19.0
+[submodule "stock-logistics-warehouse"]
+	path = stock-logistics-warehouse
+	url = git@github.com:Jarsa/stock-logistics-warehouse.git
+	branch = 19.0
+[submodule "account-closing"]
+	path = account-closing
+	url = git@github.com:Jarsa/account-closing.git
+	branch = 19.0
+[submodule "social"]
+	path = social
+	url = git@github.com:Jarsa/social.git
+	branch = 19.0
+[submodule "stock-logistics-reporting"]
+	path = stock-logistics-reporting
+	url = git@github.com:Jarsa/stock-logistics-reporting.git
+	branch = 19.0
+[submodule "edi-document"]
+	path = edi-document
+	url = git@git.vauxoo.com:Jarsa/edi-document.git
+	branch = 19.0
+[submodule "odoo-cloc"]
+	path = odoo-cloc
+	url = git@github.com:Jarsa/odoo-cloc.git
+	branch = 19.0
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = git@github.com:Jarsa/reporting-engine.git
+	branch = 19.0
+[submodule "account-payment-split"]
+	path = account-payment-split
+	url = git@git.vauxoo.com:Jarsa/account-payment-split.git
+	branch = 19.0
+[submodule "manufacture"]
+	path = manufacture
+	url = git@github.com:Jarsa/manufacture.git
+	branch = 19.0
+[submodule "server-ux"]
+	path = server-ux
+	url = git@github.com:Jarsa/server-ux.git
+	branch = 19.0
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = git@github.com:Jarsa/account-financial-tools.git
+	branch = 19.0
+[submodule "l10n-mx-avoid-reversal-entry"]
+	path = l10n-mx-avoid-reversal-entry
+	url = git@git.vauxoo.com:Jarsa/l10n-mx-avoid-reversal-entry.git
+	branch = 19.0
+[submodule "l10n-mx-cash-basis-entries"]
+	path = l10n-mx-cash-basis-entries
+	url = git@git.vauxoo.com:Jarsa/l10n-mx-cash-basis-entries.git
+	branch = 19.0
+[submodule "l10n-mx-edi-vendor-validation"]
+	path = l10n-mx-edi-vendor-validation
+	url = git@git.vauxoo.com:Jarsa/l10n-mx-edi-vendor-validation.git
+	branch = 19.0
+[submodule "l10n-mx-edi-fiscal-legend"]
+	path = l10n-mx-edi-fiscal-legend
+	url = git@git.vauxoo.com:Jarsa/l10n-mx-edi-fiscal-legend.git
+	branch = 19.0
+[submodule "queue"]
+	path = queue
+	url = git@github.com:Jarsa/queue.git
+	branch = 19.0
+[submodule "l10n-mx-edi-supplier-defaults"]
+	path = l10n-mx-edi-supplier-defaults
+	url = git@git.vauxoo.com:Jarsa/l10n-mx-edi-supplier-defaults.git
+	branch = 19.0
+[submodule "l10n-mx-edi-product-refund-accounts"]
+	path = l10n-mx-edi-product-refund-accounts
+	url = git@git.vauxoo.com:Jarsa/l10n-mx-edi-product-refund-accounts.git
+	branch = 19.0
+[submodule "amxodoo-enterprise"]
+	path = amxodoo-enterprise
+	url = git@github.com:Jarsa/amxodoo-enterprise.git
+	branch = 19.0
