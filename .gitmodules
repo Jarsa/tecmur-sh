@@ -112,5 +112,5 @@
 	branch = 19.0
 [submodule "tecmur"]
 	path = tecmur
-	url = git@git.vauxoo.com:Jarsa/tecmur.git
+	url = git@git.vauxoo.com:jarsa-dev/tecmur.git
 	branch = 19.0
