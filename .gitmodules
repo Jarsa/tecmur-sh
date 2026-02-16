@@ -112,7 +112,7 @@
 	branch = 19.0
 [submodule "tecmur"]
 	path = tecmur
-	url = git@git.vauxoo.com:Jarsa/tecmur.git
+	url = git@git.vauxoo.com:jarsa-dev/tecmur.git
 	branch = 19.0
 [submodule "l10n-mx-edi-advance"]
 	path = l10n-mx-edi-advance
