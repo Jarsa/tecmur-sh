@@ -122,3 +122,7 @@
 	path = l10n-mx-edi-related-documents
 	url = git@git.vauxoo.com:jarsa/l10n-mx-edi-related-documents.git
 	branch = 19.0
+[submodule "transport-management-system"]
+	path = transport-management-system
+	url = git@git.jarsa.com:Jarsa/transport-management-system.git
+	branch = 19.0
